@@ -4,7 +4,7 @@ MA’AKS: manually-curated parallel dataset for Arabic text sentiment swap
 This repository contains the MA’AKS dataset described in the paper:
 
 Title: MA’AKS: manually-curated parallel dataset for Arabic text sentiment swap
-Authors: Raed Mughaus, Shadi Abudalfa, Hamzah Luqman, Fahad Abdu, Mohammed AlAli, Nawaf Al-Dowayan, Ahmed Abdelali.
+Authors: Raed Mughaus, Shadi Abudalfa, Hamzah Luqman, Fahad Abdu, Mohammed AlAli, Nawaf Al-Dowayan, and Ahmed Abdelali.
 
 If you use this dataset in your work, please cite our paper:
 
