@@ -9,11 +9,14 @@ Journal: Language Resources and Evaluation.
 
 If you use this dataset in your work, please cite our paper:
 
-@article{Mughaus2025,
-  title={MA’AKS: manually-curated parallel dataset for Arabic text sentiment swap},
+@article{mughaus2026ma,
+  title={Ma’aks: manually-curated parallel dataset for Arabic text sentiment swap},
   author={Mughaus, Raed and Abudalfa, Shadi and Luqman, Hamzah and Abdu, Fahad and AlAli, Mohammed and Al-Dowayan, Nawaf and Abdelali, Ahmed},
   journal={Language Resources and Evaluation},
-  year={2025},
+  volume={60},
+  number={1},
+  pages={1},
+  year={2026},
   publisher={Springer}
 }
 
