@@ -17,4 +17,5 @@ If you use this dataset in your work, please cite our paper:
   publisher={Springer}
 }
 
-[https://link.springer.com/article/10.1007/s10579-025-09895-4](https://link.springer.com/article/10.1007/s10579-025-09895-4)
+Springer link: [https://link.springer.com/article/10.1007/s10579-025-09895-4](https://link.springer.com/article/10.1007/s10579-025-09895-4)
+[Read-only access](https://link.springer.com/epdf/10.1007/s10579-025-09895-4?sharing_token=BUW3sYbvKN7AZCq98aqzKve4RwlQNchNByi7wbcMAY4uGwbY9NdsXNgtiBy50tMkchyvo5IeVzIs7tH4_PY_ok4N8xEGFXZ0EDEZiXVU7211dvrPwYw8J5Z2dSzRbgT0mAOk6YOHTaNH-p-7AaYGo7g-pSArTbz9kZVyptUT0AQ%3D)
