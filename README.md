@@ -1,5 +1,4 @@
-# MA’AKS
-MA’AKS: manually-curated parallel dataset for Arabic text sentiment swap
+# MA’AKS: manually-curated parallel dataset for Arabic text sentiment swap
 
 This repository contains the MA’AKS dataset described in the paper:
 
